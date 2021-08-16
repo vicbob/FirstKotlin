@@ -1,0 +1,29 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.firstkotlin////PointingToDeclaration/app/com.example.firstkotlin/index.html
+$dokka.location:com.example.firstkotlin/FirstFragment///PointingToDeclaration/app/com.example.firstkotlin/-first-fragment/index.html
+$dokka.location:com.example.firstkotlin/FirstFragment/FirstFragment/#/PointingToDeclaration/app/com.example.firstkotlin/-first-fragment/-first-fragment.html
+$dokka.location:com.example.firstkotlin/FirstFragment/_binding/#/PointingToDeclaration/app/com.example.firstkotlin/-first-fragment/_binding.html
+$dokka.location:com.example.firstkotlin/FirstFragment/binding/#/PointingToDeclaration/app/com.example.firstkotlin/-first-fragment/binding.html
+$dokka.location:com.example.firstkotlin/FirstFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.firstkotlin/-first-fragment/on-create-view.html
+$dokka.location:com.example.firstkotlin/FirstFragment/onDestroyView/#/PointingToDeclaration/app/com.example.firstkotlin/-first-fragment/on-destroy-view.html
+$dokka.location:com.example.firstkotlin/FirstFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.example.firstkotlin/-first-fragment/on-view-created.html
+$dokka.location:com.example.firstkotlin/MainActivity///PointingToDeclaration/app/com.example.firstkotlin/-main-activity/index.html
+$dokka.location:com.example.firstkotlin/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/-main-activity.html
+$dokka.location:com.example.firstkotlin/MainActivity/add/#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/add.html
+$dokka.location:com.example.firstkotlin/MainActivity/appBarConfiguration/#/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/app-bar-configuration.html
+$dokka.location:com.example.firstkotlin/MainActivity/binding/#/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/binding.html
+$dokka.location:com.example.firstkotlin/MainActivity/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/on-create.html
+$dokka.location:com.example.firstkotlin/MainActivity/onCreateOptionsMenu/#android.view.Menu/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/on-create-options-menu.html
+$dokka.location:com.example.firstkotlin/MainActivity/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/on-options-item-selected.html
+$dokka.location:com.example.firstkotlin/MainActivity/onSupportNavigateUp/#/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/on-support-navigate-up.html
+$dokka.location:com.example.firstkotlin/MainActivity/subtract/#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.firstkotlin/-main-activity/subtract.html
+$dokka.location:com.example.firstkotlin/SecondFragment///PointingToDeclaration/app/com.example.firstkotlin/-second-fragment/index.html
+$dokka.location:com.example.firstkotlin/SecondFragment/SecondFragment/#/PointingToDeclaration/app/com.example.firstkotlin/-second-fragment/-second-fragment.html
+$dokka.location:com.example.firstkotlin/SecondFragment/_binding/#/PointingToDeclaration/app/com.example.firstkotlin/-second-fragment/_binding.html
+$dokka.location:com.example.firstkotlin/SecondFragment/binding/#/PointingToDeclaration/app/com.example.firstkotlin/-second-fragment/binding.html
+$dokka.location:com.example.firstkotlin/SecondFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.firstkotlin/-second-fragment/on-create-view.html
+$dokka.location:com.example.firstkotlin/SecondFragment/onDestroyView/#/PointingToDeclaration/app/com.example.firstkotlin/-second-fragment/on-destroy-view.html
+$dokka.location:com.example.firstkotlin/SecondFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.example.firstkotlin/-second-fragment/on-view-created.html
+com.example.firstkotlin
+

@@ -69,3 +69,10 @@ tasks.withType(dokkaHtml.getClass()).configureEach {
             ["org.jetbrains.dokka.base.DokkaBase": """{ "separateInheritedMembers": true}"""]
     )
 }
+tasks.dokkaJavadoc.configure {
+    outputDirectory.set(file("../docs/"))
+}
+
+tasks.dokkaHtml.configure {
+    outputDirectory.set(file("../docs/"))
+}
