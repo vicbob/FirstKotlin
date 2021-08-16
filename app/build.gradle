@@ -70,9 +70,9 @@ tasks.withType(dokkaHtml.getClass()).configureEach {
     )
 }
 tasks.dokkaJavadoc.configure {
-    outputDirectory.set(file("../javadoc/"))
+    outputDirectory.set(file("../docs/"))
 }
 
 tasks.dokkaHtml.configure {
-    outputDirectory.set(file("../html-doc/"))
+    outputDirectory.set(file("../docs/"))
 }
