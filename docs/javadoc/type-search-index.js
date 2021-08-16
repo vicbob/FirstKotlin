@@ -1,0 +1,1 @@
+var typeSearchIndex = [{"p":"com.example.firstkotlin","l":"FirstFragment","url":"com/example/firstkotlin/FirstFragment.html"}, {"p":"com.example.firstkotlin","l":"MainActivity","url":"com/example/firstkotlin/MainActivity.html"}, {"p":"com.example.firstkotlin","l":"SecondFragment","url":"com/example/firstkotlin/SecondFragment.html"}, {"l":"All classes","url":"allclasses.html"}]
